@@ -84,5 +84,5 @@ dependencies {
     implementation 'androidx.core:core-ktx:1.12.0'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1'
-    implementation 'com.github.EZotoff.kotlinllamacpp:llamaCpp:923bf3a32d5c40ea58bd781cb7acddf86482342f'
+    implementation 'com.github.EZotoff.kotlinllamacpp:llamaCpp:2b92da8e16f69e83145d66938b8547cf2b930b2f'
 }
